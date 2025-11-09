@@ -1,3 +1,15 @@
+# Breast Cancer Prediction using Machine Learning
+
+This project predicts whether a tumor is benign or malignant using machine learning algorithms (Logistic Regression, KNN, and Naive Bayes).
+
+## Run Instructions
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run Streamlit app: `streamlit run app.py`
+
+## Best Model
+**Logistic Regression** achieved 97.36% accuracy.
+
+lets see what have we done here.
 1. Data Collection and Exploration
  Load the Dataset:
 o Use Pandas to load the dataset into a DataFrame.
